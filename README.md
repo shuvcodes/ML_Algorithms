@@ -6,18 +6,12 @@ This repository contains implementations of popular Machine Learning algorithms 
 
 _Supervised Learning_
 
-   Linear Regression
-   Logistic Regression
-   Naïve Bayes
-   k-Nearest Neighbors (KNN)
-   Support Vector Machines (SVM)
-   Decision Trees
+   Linear Regression \\ Logistic Regression \\ Naïve Bayes \\ k-Nearest Neighbors (KNN) \\ Support Vector Machines (SVM) \\ Decision Trees
  
 
 _Unsupervised Learning_
 
-  k-Means Clustering
-  Principal Component Analysis (PCA)
+  k-Means Clustering \\ Principal Component Analysis (PCA)
 
 _Neural Networks_
 
