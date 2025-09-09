@@ -1,7 +1,8 @@
-Machine Learning Algorithms from Scratch
+**Machine Learning Algorithms from Scratch**
 
 This repository contains implementations of popular Machine Learning algorithms built from scratch using only Python and fundamental libraries (such as numpy, pandas, matplotlib). The goal is to understand the mathematical foundations and working principles behind each algorithm without relying on pre-built ML frameworks (like scikit-learn or TensorFlow).
-mplemented Algorithms
+
+**Implemented Algorithms**
 
 Supervised Learning
 
